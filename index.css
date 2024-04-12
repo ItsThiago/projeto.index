@@ -1,0 +1,111 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    
+    #dov{
+        display: flex;
+        justify-content: center;
+        
+    }
+    
+    
+    .container{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    
+    
+    }
+    
+    #home{
+    background-color: coral;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    }
+    #produtos{
+        background-color: coral;
+        text-align: center;
+        color: white;
+        border-radius: 10px;
+    }
+    #contato{
+        background-color: coral;
+        text-align: center;
+        color: white;
+        border-radius: 10px;
+    }
+    #sobre{
+        background-color: coral;
+        text-align: center;
+        color: white;
+        border-radius: 10px;
+        
+    }
+    
+    
+    .container2{
+    
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        margin: auto;
+    }
+    
+    #um{
+    
+        height: 240px;
+        width: 270px;
+        background-color: silver;
+        margin-top: 10px;
+        margin-left: 2px;
+          
+    
+    }
+    
+    #dois{
+    height: 240px;
+    width: 350px;
+    background-color: silver;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+    
+    }
+    
+    #tres{
+        height: 240px;
+        width: 350px;
+        background-color: silver;
+       margin-top: 10px;
+       margin-left: 50px;
+        
+        
+        
+    
+    
+    }
+    
+    #quatro{
+    height: 240px;
+    width: 270px;
+    background-color: silver;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+    
+    }
+    
+    #dov2{
+    
+        display: flex;
+        justify-content: center;
+        background-color: tomato;
+        margin-top: 5px;
+        width: auto;
+        
+        
+    }
